@@ -1,0 +1,7 @@
+Plugin ID,CVE,CVSS v3.0 Base Score,Risk,Host,Asset Tier,Name
+193001,CVE-2024-3400,10.0,Critical,fw-edge-01.corp.local,Production,PAN-OS GlobalProtect Command Injection
+184512,CVE-2023-4966,9.4,Critical,vpn-gw-02.corp.local,Production,NetScaler ADC Session Token Disclosure
+156002,CVE-2021-44228,10.0,Critical,app-stage-01.corp.local,Staging,Apache Log4j JNDI RCE
+142910,CVE-2023-38408,9.8,Critical,linux-web-03.corp.local,Production,OpenSSH PKCS11 Remote Code Execution
+11213,CVE-2022-22965,7.5,High,internal-wiki.corp.local,Internal,Spring Framework Data Binding RCE
+51192,CVE-2020-1971,5.3,Medium,dev-box-09.corp.local,Lab,OpenSSL EDIPARTYNAME NULL Pointer Dereference
